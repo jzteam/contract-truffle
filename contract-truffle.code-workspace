@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "editor.fontSize": 16,
+    "debug.console.fontSize": 16,
+    "terminal.integrated.fontSize": 16,
+    "interactiveSession.editor.fontSize": 16,
+    "customizeUI.font.regular": "16",
+    "customizeUI.stylesheet": {
+      ".monaco-workbench .window-title": "font-size: 16px !important"
+    }
+  }
+}
